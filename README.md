@@ -1,5 +1,70 @@
-# 💫 About Me:
-Привет! 👋<br><br>Я разработчик, увлечённый созданием сложных, функциональных и красивых проектов. Мне нравится работать с новыми технологиями и постоянно учиться чему-то новому. Сейчас я занимаюсь интересными проектами, связанными с разработкой веб-приложений, автоматизацией задач на Python а также активно изучаю и использую современные инструменты для управления базами данных и API.<br><br>Мой опыт охватывает:<br><br>Веб-разработку (wordpres, drupal, Flutter, php, java-script) и другие современные фреймворки)<br><br>Парсинг данных и автоматизацию с помощью Python<br><br>Разработку и поддержку Telegram-ботов<br><br>Решение задач по механике и электрике в Ansys<br><br>Свободно владею русским, английским, китайским и украинским языками. В данный момент учусь в аспирантуре (PhD) по направлению обработки материалов.<br><br>Мне нравится решать сложные технические задачи и создавать эффективные решения. Если у вас есть интересные идеи или вопросы — всегда рад обсудить!
+# Dmitry Yatskovskiy
+
+Builder at the intersection of **automotive data**, **EdTech**, and **scientific computing**.  
+Based in Shenzhen (often traveling). I ship pragmatic products fast and love turning messy data into clean, usable tools.
+
+---
+
+## What I’m working on
+
+### Autotables — vehicle specs, translated & productized
+B2B service that converts Chinese automotive specifications into **Russian, English, Ukrainian, and Kazakh** with brand-ready outputs (PDF/Excel), watermarking, and API access.
+- Stack: Next.js, TypeScript, Tailwind, PocketBase, Prisma, Railway, Bunny (storage/search), WeasyPrint, `rembg`
+- Focus: high-accuracy terminology, multi-language consistency, and dealer-ready documents
+- Site: https://autotables.xyz/ (product & case studies)
+
+### EduVenture — programs in China, like Airbnb but for education
+Marketplace for short-term study programs, language camps, and cultural trips.
+- Stack: Next.js, TypeScript, PostgreSQL, Railway
+- Roadmap: onboarding for schools, CRM-style pipeline, payments, and verified reviews
+
+### Research — Graphene/SiC composites (FEM)
+PhD-level work on **electrical conductivity** of 3D-printed Graphene/SiC scaffolds.  
+- Tools: Ansys (Maxwell/Electronics), Abaqus, Python (NumPy/Pandas), CUDA
+- Topics: current density distributions, inter-filament spacing effects, simulation ↔ experiment reconciliation
+
+---
+
+## Tech I use
+
+- **Web:** Next.js, React, TypeScript, Tailwind, Prisma, PocketBase, PostgreSQL, MongoDB, Railway, Docker  
+- **Automation/AI:** Python, aiogram (Telegram bots), Selenium, OCR pipelines, `rembg`, WeasyPrint  
+- **Simulation:** Ansys Maxwell/Electronics, Abaqus; data analysis with Python  
+- **Infra & tooling:** GitHub Actions, Bunny (CDN/storage/search)
+
+---
+
+## Selected projects
+
+- **Autotables** — Chinese → multi-language vehicle specs with branding & PDFs  
+  `Next.js • PocketBase • WeasyPrint • Bunny • Railway`
+- **EduVenture** — discovery & booking of study programs in China  
+  `Next.js • PostgreSQL • Railway`
+- **Telegram CRM extensions** — welcome sequences, SLA auto-replies, Mini App forms  
+  `Next.js • Telegram Bot API (aiogram) • Bunny`
+
+> I’m keen to collaborate on: automotive data pipelines, translation tooling, Telegram bots/CRM, and FEM utilities.
+
+---
+
+## Languages
+
+Russian (native) • Chinese (fluent) • English (fluent)
+
+---
+
+## Contact
+
+- Email: **YOUR_EMAIL@DOMAIN**
+- Telegram: **@YOUR_TELEGRAM**
+- Website/Portfolio: **https://YOUR_SITE**
+
+---
+
+## GitHub metrics (optional)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
 
 
 ## 🌐 Socials:

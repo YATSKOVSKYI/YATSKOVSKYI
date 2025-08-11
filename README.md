@@ -63,8 +63,8 @@ Russian (native) • Chinese (fluent) • English (fluent)
 
 ## GitHub metrics (optional)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YATSKOVSKYI&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YATSKOVSKYI&layout=compact)
 
 
 ## 🌐 Socials:

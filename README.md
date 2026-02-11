@@ -1,6 +1,6 @@
 <!-- Title & Subtitle -->
 <div align="center">
-  <h1>Dmitry Yatskovskiy</h1>
+  <h1>YATSKOVSKYI DMYTRO</h1>
   <h3>Full Stack Developer | AI Researcher | EdTech Innovator</h3>
   <p>Building high-performance systems and exploring the physics of materials.</p>
 

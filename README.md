@@ -12,7 +12,7 @@
     <a href="https://t.me/yaobuyao888">
       <img src="https://img.shields.io/badge/Telegram-@yaobuyao888-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <a href="https://www.linkedin.com/in/dmytro-yatskovskyi-25168872/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </div>
@@ -107,16 +107,17 @@
     </tr>
     <tr>
       <td>
-        <b>🎓 EduVenture</b>
+        <b>🎓 <a href="https://eduventure.world/">EduVenture World</a></b>
         <br />
-        <sub>Marketplace</sub>
+        <sub>EdTech Ecosystem</sub>
       </td>
       <td>
-        Architected a scalable booking system for international education programs.
-        Features include school onboarding workflows, CRM integration, and verified reviews.
+        <b>Comprehensive Platform for China Studies</b>. <br>
+        Combines an <b>LMS</b> (interactive video lessons, flashcards, progress tracking) with a <b>Service Marketplace</b> for educational tourism.
+        Orchestrates complex user flows from online learning to offline study programs.
       </td>
       <td>
-        <code>TypeScript</code><br/>
+        <code>Next.js</code><br/>
         <code>PostgreSQL</code><br/>
         <code>Railway</code>
       </td>
